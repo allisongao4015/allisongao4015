@@ -4,7 +4,7 @@ I am a recent Flatiron Data Science Bootcamp grad with a passion for data, tech,
 
 ## Projects 
 
-#### [Predicting Civil Ticket Fine Collection Outcome](https://www.yalelawjournal.org/forum/who-pays)
+#### [Predicting Civil Ticket Fine Collection Outcome](https://github.com/allisongao4015/oath_cases)
 Classify whether an issued civil ticket in NYC will result in fine collection using machine learning
 Analyzed over 210,000 civil tickets issued in New York City using 25 associated variables 
 Automated download of over 200 files from the Census Bureau using Selenium
