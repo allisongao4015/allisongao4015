@@ -1,6 +1,6 @@
 ### Hi! Thank you for checking out my Github Profile. 👋
 
-I am a recent Flatiron Data Science Bootcamp grad with a passion for data, tech, and public policy. I also enjoy writing about what I am learning on [Medium](https://medium.com/@allison.gao)
+I am a recent Flatiron Data Science Bootcamp grad with a passion for data, tech, and public policy. I also enjoy writing about what I am learning on [Medium](https://medium.com/@allison.gao). 
 
 ## Projects 
 
