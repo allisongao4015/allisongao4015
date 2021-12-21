@@ -9,7 +9,7 @@ I am a recent Flatiron Data Science Bootcamp grad with a passion for data, tech,
 * Analyzed over 210,000 civil tickets issued in New York City using 25 associated variables 
 * Automated download of over 200 files from the Census Bureau using Selenium
 * Ran iterations of logistic regression, random forest, decision tree, and XGBoost models to select best model
-* Selected XGBoost as the preferred model with 71% accuracy score and 66% precision score 
+* Selected random forest as the preferred model with 71% accuracy score and 66% precision score 
 
 #### [Tweet Sentiment Analysis](https://github.com/allisongao4015/NLP_project)
 * Classify Tweets on Google and Apple products into positive emotion, negative emotion or no emotion detected
