@@ -1,6 +1,6 @@
 ### Hi! Thank you for checking out my Github Profile. 👋
 
-I am a recent Flatiron Data Science Bootcamp grad with a passion for data, tech, and public policy. 
+I am a policy school graduate and Flatiron Data Science Bootcamp grad with a passion for data, tech, and policy analysis. I am currently working at the New York City Taxi and Limousine Commission, working at the intersection of data analytics and policy research to support the agency's policy initiatives for the for-hire transportation sector.
 
 ## Projects 
 
